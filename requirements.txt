@@ -1,0 +1,13 @@
+# Dependencies for CIR_Yield_Curve_Modelling.ipynb
+# Install with:  pip install -r requirements.txt
+# (Python 3.9+ recommended)
+
+# --- Core scientific stack used by the notebook ---
+numpy>=1.23
+pandas>=1.5
+scipy>=1.9
+matplotlib>=3.6
+
+# --- To open and run the .ipynb locally ---
+jupyterlab>=4.0      # or use: notebook>=7.0
+ipykernel>=6.0
